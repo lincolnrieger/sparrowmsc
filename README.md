@@ -21,5 +21,4 @@ Option B — download `shows.js`, edit it in any text editor (Notepad, TextEdit)
 Upcoming and past shows sort themselves by date.
 
 ## Other edits
-The booking email is still a placeholder: search `index.html` for `[booking@email]`.
 To swap a photo, replace the file in `images/` with one of the same name.
