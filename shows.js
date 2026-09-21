@@ -14,16 +14,6 @@
 // ============================================================
 
 window.SHOWS = [
-
-  
-  {
-    date: "2026-09-24",
-    venue: "Test",
-    location: "Test, Test",
-    details: "we like to perform",
-    tickets: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-  },
-
   
   {
     date: "2026-09-18",
