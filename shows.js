@@ -15,6 +15,16 @@
 
 window.SHOWS = [
 
+  
+  {
+    date: "2026-09-24",
+    venue: "Test",
+    location: "Test, Test",
+    details: "",
+    tickets: ""
+  },
+
+  
   {
     date: "2026-09-18",
     venue: "Blackwood RSL",
