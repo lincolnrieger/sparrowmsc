@@ -16,6 +16,33 @@
 window.SHOWS = [
 
   {
+    date: "2026-12-05",
+    venue: "Lowlife Bar",
+    location: "Adelaide",
+    details: "",
+    tickets: "",
+    note: "From 8pm"
+  },
+
+  {
+    date: "2026-10-28",
+    venue: "Metro",
+    location: "Adelaide",
+    details: "",
+    tickets: "",
+    note: "From 8:30pm"
+  },
+
+  {
+    date: "2026-10-17",
+    venue: "Uni Bar",
+    location: "Adelaide",
+    details: "",
+    tickets: "",
+    note: "From 5pm"
+  },
+
+  {
     date: "2026-09-18",
     venue: "Blackwood RSL",
     location: "Blackwood, Adelaide",
